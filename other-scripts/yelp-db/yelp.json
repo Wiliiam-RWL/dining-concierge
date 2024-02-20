@@ -1,0 +1,922 @@
+{
+  "businesses": [
+    {
+      "id": "l_RAv09V67j-Hm9dyZxWhw",
+      "alias": "tomi-jazz-new-york",
+      "name": "Tomi Jazz",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OucmfJHT9EDdo0Wnwv7RaQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tomi-jazz-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 799,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "jazzandblues",
+          "title": "Jazz & Blues"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 40.75725,
+        "longitude": -73.96774
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "239 E 53rd St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10022",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "239 E 53rd St",
+          "New York, NY 10022"
+        ]
+      },
+      "phone": "+16464971254",
+      "display_phone": "(646) 497-1254",
+      "distance": 266.4343912682614
+    },
+    {
+      "id": "klAhw3xLQi9GF1tf_HnS7w",
+      "alias": "izakaya-mew-new-york-3",
+      "name": "Izakaya MEW",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-56mpvzUi0nfYADw2uQXhg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/izakaya-mew-new-york-3?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 2949,
+      "categories": [
+        {
+          "alias": "tapas",
+          "title": "Tapas Bars"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "izakaya",
+          "title": "Izakaya"
+        }
+      ],
+      "rating": 4.3,
+      "coordinates": {
+        "latitude": 40.750148,
+        "longitude": -73.9863203465939
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "53 W 35th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10001",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "53 W 35th St",
+          "New York, NY 10001"
+        ]
+      },
+      "phone": "+16463689384",
+      "display_phone": "(646) 368-9384",
+      "distance": 1731.2329353012585
+    },
+    {
+      "id": "OFfZUS-nu6NDnsWe1B2bUQ",
+      "alias": "tonchin-new-york-2",
+      "name": "Tonchin",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BgQKNO97PzwQSsvmAKHIkA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tonchin-new-york-2?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 2089,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        },
+        {
+          "alias": "chicken_wings",
+          "title": "Chicken Wings"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 40.7502727,
+        "longitude": -73.9844951
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "13 W 36th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10018",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "13 W 36th St",
+          "New York, NY 10018"
+        ]
+      },
+      "phone": "+16466929912",
+      "display_phone": "(646) 692-9912",
+      "distance": 1599.8211764492949
+    },
+    {
+      "id": "MmXZLVwWcYugi_TXSHmjeQ",
+      "alias": "sushi-by-bou-times-square-new-york",
+      "name": "Sushi by Bou Times Square",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rFPZMQIFczVXsUzy8nw2LA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sushi-by-bou-times-square-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 801,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.7,
+      "coordinates": {
+        "latitude": 40.75851,
+        "longitude": -73.98322
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "132 W 47th St",
+        "address2": "",
+        "address3": null,
+        "city": "New York",
+        "zip_code": "10036",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "132 W 47th St",
+          "New York, NY 10036"
+        ]
+      },
+      "phone": "+19172687268",
+      "display_phone": "(917) 268-7268",
+      "distance": 1159.7691066269858
+    },
+    {
+      "id": "mESab-FqL5QqSVsnX72asQ",
+      "alias": "zen-ramen-and-sushi-new-york",
+      "name": "Zen Ramen & Sushi",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lZ5lOYihsojZmYjnvSZGPg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/zen-ramen-and-sushi-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 2763,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "salad",
+          "title": "Salad"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.75177475474212,
+        "longitude": -73.98897630211589
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "150 W 36th street",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10018",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "150 W 36th street",
+          "New York, NY 10018"
+        ]
+      },
+      "phone": "+16468707509",
+      "display_phone": "(646) 870-7509",
+      "distance": 1829.7215898358247
+    },
+    {
+      "id": "Ece_DRuD1yQjRPJBAebRpw",
+      "alias": "kung-fu-little-steamed-buns-ramen-new-york-2",
+      "name": "Kung Fu Little Steamed Buns Ramen",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nPD2snG4Uk7NJLKRs2c5SQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/kung-fu-little-steamed-buns-ramen-new-york-2?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 398,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "chinese",
+          "title": "Chinese"
+        }
+      ],
+      "rating": 3.4,
+      "coordinates": {
+        "latitude": 40.7592514705491,
+        "longitude": -73.9694294705987
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "146 E 55th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10022",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "146 E 55th St",
+          "New York, NY 10022"
+        ]
+      },
+      "phone": "+12128048556",
+      "display_phone": "(212) 804-8556",
+      "distance": 14.86578150266121
+    },
+    {
+      "id": "dtk1Cstz5MHr-B1AOM_nXA",
+      "alias": "gyu-kaku-japanese-bbq-new-york-2",
+      "name": "Gyu-Kaku Japanese BBQ",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mILeooG8uifa1UF1c5bWZA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gyu-kaku-japanese-bbq-new-york-2?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 1310,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "bbq",
+          "title": "Barbeque"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 40.75537,
+        "longitude": -73.97054
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "805 3rd Ave",
+        "address2": "2nd Flr",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10022",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "805 3rd Ave",
+          "2nd Flr",
+          "New York, NY 10022"
+        ]
+      },
+      "phone": "+12127028816",
+      "display_phone": "(212) 702-8816",
+      "distance": 425.20937341245764
+    },
+    {
+      "id": "TN4RnyqHMSupRFot4Q-_EA",
+      "alias": "ippudo-westside-new-york",
+      "name": "Ippudo Westside",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EmJBZo1FvHemEBgyJknEOQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ippudo-westside-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 4085,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 40.76344,
+        "longitude": -73.98661
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "321 W 51st St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10019",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "321 W 51st St",
+          "New York, NY 10019"
+        ]
+      },
+      "phone": "+12129742500",
+      "display_phone": "(212) 974-2500",
+      "distance": 1511.7717337618794
+    },
+    {
+      "id": "-Q8MYIWoE4EsGQtudIOY0w",
+      "alias": "bua-thai-ramen-and-robata-grill-new-york",
+      "name": "Bua Thai Ramen & Robata Grill",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/STPkeCnzxNZTax2QYGhe-g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bua-thai-ramen-and-robata-grill-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 2697,
+      "categories": [
+        {
+          "alias": "thai",
+          "title": "Thai"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "vegetarian",
+          "title": "Vegetarian"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 40.7763615,
+        "longitude": -73.95308
+      },
+      "transactions": [
+        "delivery",
+        "restaurant_reservation",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1611 2nd Ave",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10028",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "1611 2nd Ave",
+          "New York, NY 10028"
+        ]
+      },
+      "phone": "+12128797999",
+      "display_phone": "(212) 879-7999",
+      "distance": 2362.5530682415965
+    },
+    {
+      "id": "7iY35991NhQ1AShJZCNZgA",
+      "alias": "sakagura-new-york",
+      "name": "Sakagura",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UTNso2U3VAiTXdDV98Jbzw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sakagura-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 1888,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 40.7516467024541,
+        "longitude": -73.9729489318165
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$$",
+      "location": {
+        "address1": "211 E 43rd St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10017",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "211 E 43rd St",
+          "New York, NY 10017"
+        ]
+      },
+      "phone": "+12129537253",
+      "display_phone": "(212) 953-7253",
+      "distance": 884.0283734551149
+    },
+    {
+      "id": "7Q68kpPS6okcC8Kkw7g42A",
+      "alias": "sushi-lab-rooftop-new-york-2",
+      "name": "Sushi Lab Rooftop",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZdrheKY7NxhnnZltFD4hQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/sushi-lab-rooftop-new-york-2?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 588,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 40.758413,
+        "longitude": -73.983292
+      },
+      "transactions": [],
+      "location": {
+        "address1": "132 W 47th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10036",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "132 W 47th St",
+          "New York, NY 10036"
+        ]
+      },
+      "phone": "+12124320000",
+      "display_phone": "(212) 432-0000",
+      "distance": 1159.7691066269858
+    },
+    {
+      "id": "icpLRhJ1jpBX1zBGkt7Xqg",
+      "alias": "teppen-ramen-new-york-2",
+      "name": "Teppen Ramen",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/frrduvlt8I9zSYGB_xeBdA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/teppen-ramen-new-york-2?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 588,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 40.75929,
+        "longitude": -73.96879
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "159 E 55th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10022",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "159 E 55th St",
+          "New York, NY 10022"
+        ]
+      },
+      "phone": "+12123552974",
+      "display_phone": "(212) 355-2974",
+      "distance": 66.59986512288455
+    },
+    {
+      "id": "Pr-q47vsmM4aoc2t_Sfk8w",
+      "alias": "momofuku-noodle-bar-uptown-new-york",
+      "name": "Momofuku Noodle Bar - Uptown",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h08ukV9YwJXhQBT2kvCCIg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/momofuku-noodle-bar-uptown-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 629,
+      "categories": [
+        {
+          "alias": "newamerican",
+          "title": "New American"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 40.76802583631109,
+        "longitude": -73.9829243
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "10 Columbus Cir",
+        "address2": "Third Floor",
+        "address3": null,
+        "city": "New York",
+        "zip_code": "10019",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "10 Columbus Cir",
+          "Third Floor",
+          "New York, NY 10019"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 1494.271067117931
+    },
+    {
+      "id": "qm1J_dPA5IHij1oAnoZwHw",
+      "alias": "nonono-new-york-6",
+      "name": "nonono",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TqFGBv0yqN6D4cneKOTTJA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nonono-new-york-6?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 1217,
+      "categories": [
+        {
+          "alias": "izakaya",
+          "title": "Izakaya"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 40.74541891599005,
+        "longitude": -73.98492926795281
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "118 Madison Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10016",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "118 Madison Ave",
+          "New York, NY 10016"
+        ]
+      },
+      "phone": "+16467073227",
+      "display_phone": "(646) 707-3227",
+      "distance": 2003.1445412755652
+    },
+    {
+      "id": "SxKvgnkMMZdhBJcxxKQnww",
+      "alias": "nobu-fifty-seven-new-york-2",
+      "name": "Nobu Fifty Seven",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/INqGC_ky4oZ_rPMcSjNlQA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nobu-fifty-seven-new-york-2?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 1490,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 4,
+      "coordinates": {
+        "latitude": 40.76371615273354,
+        "longitude": -73.97624989600685
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$$",
+      "location": {
+        "address1": "40 W 57th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10019",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "40 W 57th St",
+          "New York, NY 10019"
+        ]
+      },
+      "phone": "+12127573000",
+      "display_phone": "(212) 757-3000",
+      "distance": 755.7457963151071
+    },
+    {
+      "id": "oTkzgr7hzOAdlP99Auj3GQ",
+      "alias": "momosan-ramen-and-sake-new-york-5",
+      "name": "Momosan Ramen & Sake",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y1zFJ01-X-A9vaCmH1if7g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/momosan-ramen-and-sake-new-york-5?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 1874,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.1,
+      "coordinates": {
+        "latitude": 40.74995017572174,
+        "longitude": -73.97748364109736
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "342 Lexington Ave",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10016",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "342 Lexington Ave",
+          "New York, NY 10016"
+        ]
+      },
+      "phone": "+16462015529",
+      "display_phone": "(646) 201-5529",
+      "distance": 1223.1030858866702
+    },
+    {
+      "id": "3eBV6HwWcdHzJW3sUH-2hw",
+      "alias": "ichiran-times-square-new-york-4",
+      "name": "ICHIRAN - Times Square",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hdYDb0fN3Wn17xJU5TM9Tg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/ichiran-times-square-new-york-4?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 962,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        }
+      ],
+      "rating": 4.4,
+      "coordinates": {
+        "latitude": 40.7600737531204,
+        "longitude": -73.9833259411037
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "152 W 49th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10019",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "152 W 49th St",
+          "New York, NY 10019"
+        ]
+      },
+      "phone": "+16469644294",
+      "display_phone": "(646) 964-4294",
+      "distance": 1162.5668638757147
+    },
+    {
+      "id": "6lUsFj0KCao678o9L7QwUw",
+      "alias": "hatsuhana-new-york",
+      "name": "Hatsuhana",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BgU4cogcT7JT9raJ59vlwQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hatsuhana-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 1557,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        }
+      ],
+      "rating": 4.2,
+      "coordinates": {
+        "latitude": 40.75703,
+        "longitude": -73.97692
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "17 E 48th St",
+        "address2": "",
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10017",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "17 E 48th St",
+          "New York, NY 10017"
+        ]
+      },
+      "phone": "+12123553345",
+      "display_phone": "(212) 355-3345",
+      "distance": 662.9791096401235
+    },
+    {
+      "id": "ieXKc6S3WlEiVkyxgaF9Ig",
+      "alias": "tempura-matsui-new-york",
+      "name": "Tempura Matsui",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/G1IOFq73xbScUNdE4q1J2w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/tempura-matsui-new-york?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 196,
+      "categories": [
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.74819,
+        "longitude": -73.97467
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "222 E 39th St",
+        "address2": null,
+        "address3": "",
+        "city": "New York",
+        "zip_code": "10016",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "222 E 39th St",
+          "New York, NY 10016"
+        ]
+      },
+      "phone": "+12129868885",
+      "display_phone": "(212) 986-8885",
+      "distance": 1289.8408117382785
+    },
+    {
+      "id": "X83qWL5WPR-QWGXGQ8WP-Q",
+      "alias": "nr-new-york-4",
+      "name": "NR",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/THqKDUQumJAGfHdv6chy2A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/nr-new-york-4?adjust_creative=MNXnxk9NTrSEh3C3DkA06Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=MNXnxk9NTrSEh3C3DkA06Q",
+      "review_count": 364,
+      "categories": [
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 40.770153,
+        "longitude": -73.954956
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$$",
+      "location": {
+        "address1": "339 E 75th St",
+        "address2": "",
+        "address3": null,
+        "city": "New York",
+        "zip_code": "10021",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+          "339 E 75th St",
+          "New York, NY 10021"
+        ]
+      },
+      "phone": "+16462264874",
+      "display_phone": "(646) 226-4874",
+      "distance": 1730.118900104619
+    }
+  ],
+  "total": 1400,
+  "region": {
+    "center": {
+      "longitude": -73.96957397460938,
+      "latitude": 40.75917470627005
+    }
+  }
+}

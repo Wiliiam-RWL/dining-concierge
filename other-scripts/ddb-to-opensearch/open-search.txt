@@ -1,0 +1,7 @@
+curl -X GET "https://search-restaurants-lf23yigavhyi5iop7aiumx4fby.us-east-1.es.amazonaws.com/_search" -u admin:Yeweilin-no1 -H 'Content-Type: application/json' -d'
+{
+  "query": {
+    "match_all": {}
+  }
+}
+'
